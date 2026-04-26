@@ -26,16 +26,16 @@ The dataset contains ~5,000 orders, including:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](page1.png)
+[Executive Overview](page1.png)
 
 ### Customer Insights
-![Customer Insights](page2.png)
+[Customer Insights](page2.png)
 
 ### Product Performance
-![Product Performance](page3.png)
+[Product Performance](page3.png)
 
 ### Operations & Shipping
-![Operations](page4.png)
+[Operations](page4.png)
 
 ---
 
