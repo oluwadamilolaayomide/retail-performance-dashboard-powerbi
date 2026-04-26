@@ -59,7 +59,7 @@ The dataset contains ~5,000 orders, including:
 ---
 
 ## Project File
-- Retail Dashboard.pbix
+- SuperStore Performance.pbix
 
 ---
 
